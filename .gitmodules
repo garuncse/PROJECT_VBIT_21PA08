@@ -1,0 +1,6 @@
+[submodule "code/backend"]
+	path = code/backend
+	url = https://github.com/abhi-abhiram/python-lung-cancer-detection-backend
+[submodule "code/frontend"]
+	path = code/frontend
+	url = https://github.com/Dilip-777/lung-cancer
